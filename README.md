@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nsadah
-- 👀 I’m interested in things to do with Computers and emerging technologues
-- 🌱 I’m currently learning coding software with an organisation xalled ALX
+- 👀 I’m interested in things to do with Computers and emerging technologies
+- 🌱 I’m currently learning coding software with an organisation called ALX
 
 
 <!---
